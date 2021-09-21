@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ejercicio2</string>
+    <string name="titulo">square</string>
+    <string name="dame_un_numero">give me a number</string>
+    <string name="calcular_cuadrado">calculate</string>
+    <string name="_0">0</string>
+    <string name="todo">all</string>
+</resources>
